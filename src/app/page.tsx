@@ -110,14 +110,13 @@ export default function LandingPage() {
               <li>엑셀 다운로드</li>
             </ul>
             <a
-              href="#"
+              href="https://www.groble.im/payment/pLS39R"
+              target="_blank"
+              rel="noopener noreferrer"
               className="mt-6 block rounded-md bg-zinc-900 px-6 py-3 text-sm font-medium text-white dark:bg-zinc-50 dark:text-zinc-900"
             >
               결제하기
             </a>
-            <p className="mt-2 text-xs text-zinc-400 dark:text-zinc-600">
-              (실제 결제 링크는 준비되는 대로 연결 예정입니다)
-            </p>
           </div>
         </section>
       </main>
